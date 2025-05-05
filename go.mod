@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/olekukonko/tablewriter v0.0.5
 	go.uber.org/goleak v1.2.1
-	golang.org/x/text v0.24.0
+	golang.org/x/text v0.22.0
 )
 
 require (
