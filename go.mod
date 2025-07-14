@@ -1,11 +1,11 @@
 module github.com/samber/go-gladia
 
-go 1.18
+go 1.23.0
 
 require (
 	github.com/olekukonko/tablewriter v0.0.5
 	go.uber.org/goleak v1.2.1
-	golang.org/x/text v0.22.0
+	golang.org/x/text v0.27.0
 )
 
 require (
